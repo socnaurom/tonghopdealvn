@@ -1,0 +1,5 @@
+{
+  "source": "/:slug",
+  "destination": "https://www.tonghopdeal.net/graphql/:slug",
+  "statusCode": 301
+}
